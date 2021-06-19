@@ -1,0 +1,184 @@
+body{
+    font-family: Tahoma;
+    font-size: 13px;
+    width: 1000px;
+    margin: 0px auto;
+   
+   }
+   #menu{
+       width: 1000px;
+       height: 40px;
+       
+   }
+   #menu_top ul{
+
+    margin: 0px;
+    padding: 0px;
+    margin-left: 50px;
+   }#menu_top ul li{
+    list-style: none;
+    float: left;
+   }
+   #menu_top ul li a{
+    text-decoration: none;
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    color:black;
+    
+    
+    /*border-right: 5px soloid white;*/
+    margin-right: 10px;
+   }
+  
+   #menu_top ul li a.active{
+    /*background: #1949b5;*/
+   }
+   #menu_top1 ul{
+    margin: 0px;
+    padding: 0px;
+   }#menu_top1 ul li{
+    list-style: none;
+    float: left;
+   }
+   #menu_top1 ul li a{
+    text-decoration: none;
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    color:black;
+    
+    
+    /*border-right: 5px soloid white;*/
+    margin-right: 10px;
+   }
+  
+  #logo{
+      height: 40px;
+      width: 1000px;
+     
+  }
+  #logo1{
+    height: 40px;
+      float: left;
+  }
+  #logo2{
+
+    float: left;
+}
+#logo3{
+
+    float: left;
+}
+#ben{
+    width: 1000px;
+    height: 30px;
+}
+#ben ul{
+
+    margin: 0px;
+    padding: 0px;
+    margin-left: 50px;
+   }#ben ul li{
+    list-style: none;
+    float: left;
+   }
+   #ben ul li a{
+    text-decoration: none;
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    color:black;
+    
+    
+    /*border-right: 5px soloid white;*/
+    margin-right: 10px;
+   }
+   #menu_top ul li a:hover{
+    background-color:salmon;
+   }
+   #main{
+       margin-top: 3px;
+       width: 1050px;
+       height: 100px;
+       
+   }
+   #main #left{
+       
+       width: 500px;
+       float: left;
+   }
+   #main #misss{
+       width: 200px;
+       
+       float: left;
+   }
+   #main #right{
+       
+       width: 340px;
+       float: left;
+   }
+   #eng{
+    margin-bottom: 10px;
+       float: right;
+   }
+   #noidung{
+       
+       
+
+    margin-top: 30px;
+       padding: 0px;
+   }
+   #noidung ul li{
+      
+
+   }
+   #noidung ul li a{
+       margin-right: 10px;
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    line-height: 20px;
+    border-bottom: 1px solid black;
+
+    
+    
+   
+   }
+   #gocnhin{
+       margin-left: 15px;
+   }
+   .im{
+       float:right;
+       margin-left: 5px;
+   }
+#main #right ul{
+    margin-left: 5px;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+}
+ #main #right ul li{
+       float: left;
+       margin-left: 5px;
+       list-style: none;
+   }
+   #main #right ul li a{
+    text-decoration: none;
+    display: block;
+   margin-right: 5px;
+   
+    color:black;
+    
+    
+    /*border-right: 5px soloid white;*/
+    
+   }
+
+.id{
+    background-color: darkcyan;
+}
+ .imgh{
+     margin-left: 15px;
+     margin-top: 35px;
+ }
